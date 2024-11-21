@@ -32,4 +32,4 @@ The **Urban Lunch App** is an Android application designed to allow users to ord
 - Improved the app's reliability by working closely with developers to resolve critical defects.
 - Helped the team launch a robust initial version of the Urban Lunch App that met user expectations.
 
-## Link to the test cases is [here](https://docs.google.com/spreadsheets/d/1P5FpKujAsiElTvHz4rCCRNd9J7HW_Ma4axf4zt9iOUA/edit?usp=sharing)
+Link to the test cases are [here](https://docs.google.com/spreadsheets/d/1P5FpKujAsiElTvHz4rCCRNd9J7HW_Ma4axf4zt9iOUA/edit?usp=sharing)
